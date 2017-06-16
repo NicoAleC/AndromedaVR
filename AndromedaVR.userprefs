@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\GoogleVR\Demos\Scripts\GVRDemo\Teleport.cs">
+    <Files>
+      <File FileName="assets\GoogleVR\Demos\Scripts\GVRDemo\Teleport.cs" Line="35" Column="49" />
+      <File FileName="assets\cliente.cs" Line="23" Column="32" />
+      <File FileName="assets\canvaslist.cs" Line="42" Column="1" />
+      <File FileName="assets\mostarlista.cs" Line="18" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
